@@ -1,0 +1,9 @@
+Time Note:
+
+For this challenge, I created a very simple program that runs tic-tac-toe in the command prompt. 
+
+I took the entire 4 hours provided for the challenge on my program, optimizing it so it would be easily understandable and run correctly.
+
+There is one small problem in the looping, so when a new game is started the player does not have control over whether the computer or themself has the first play. If I had more time, this would be the first thing I fixed.
+
+Even though I've only been practicing Python for a few days, I made sure not to copy any code from the internet or chatbots, and worked with what I already understand about Python.
